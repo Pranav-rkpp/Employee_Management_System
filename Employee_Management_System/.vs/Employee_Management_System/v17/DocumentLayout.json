@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\forgetpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|d:\\csharpcode\\windowsformprojects\\employee_management_system\\employee_management_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6A85E01E-3CD4-4203-A58A-D10EF8517696}|Employee_Management_System\\Employee_Management_System.csproj|solutionrelative:employee_management_system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForgetPassword.cs [Design]",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ForgetPassword.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\ForgetPassword.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ForgetPassword.cs [Design]",
+              "RelativeToolTip": "Employee_Management_System\\ForgetPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:48:19.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Register.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Register.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Register.cs",
+              "RelativeToolTip": "Employee_Management_System\\Register.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAnwFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:29:10.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\ChangePassword.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "Employee_Management_System\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:43:08.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgetPassword.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ForgetPassword.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\ForgetPassword.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ForgetPassword.cs",
+              "RelativeToolTip": "Employee_Management_System\\ForgetPassword.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:44:45.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\ChangePassword.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\ChangePassword.cs",
+              "RelativeToolTip": "Employee_Management_System\\ChangePassword.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAnwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:46:23.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Register.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Register.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Register.cs [Design]",
+              "RelativeToolTip": "Employee_Management_System\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:26:07.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Dashboard.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Employee_Management_System\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:34:14.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Dashboard.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Dashboard.cs",
+              "RelativeToolTip": "Employee_Management_System\\Dashboard.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAtwL4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:44:36.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Login.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Login.cs",
+              "RelativeToolTip": "Employee_Management_System\\Login.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAEwHQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:29:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Login.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Login.cs [Design]",
+              "RelativeToolTip": "Employee_Management_System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:23:28.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Management_System\\Program.cs",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\Program.cs",
+              "RelativeToolTip": "Employee_Management_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:53:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\App.config",
+              "RelativeDocumentMoniker": "Employee_Management_System\\App.config",
+              "ToolTip": "D:\\CSharpCode\\WindowsFormProjects\\Employee_Management_System\\Employee_Management_System\\App.config",
+              "RelativeToolTip": "Employee_Management_System\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T15:53:36.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
